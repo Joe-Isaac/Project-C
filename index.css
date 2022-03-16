@@ -1,0 +1,31 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-image: url("image(5).jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+}
+
+button {
+    background-color: transparent;
+    font-size: 30px;
+    border-style: solid;
+    border-radius: 20px;
+    color: goldenrod;
+    padding: 15px;
+    border-color: aliceblue;
+    font-weight: bold;
+}
